@@ -380,5 +380,5 @@ var ontarioLocations = [
 "Oliver Paipoonge",
 "Puslinch",
 "South Bruce Peninsula",
-"South Dundas",
+"South Dundas"
 ];
